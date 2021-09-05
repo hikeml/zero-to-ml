@@ -6,7 +6,7 @@
 
 https://hikeml.github.io/zero-to-ml/
 
-# My Blog
+# A comprehensive guide to Zero to Machine Learning and Data Science
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
