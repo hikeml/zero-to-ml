@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This is a comprehensive guide to Zero to Machine Learning and Data Science project. A series of blog posts are posted from time to time to cover various topics involved in the machine learning journey through practical explanations and projects.
